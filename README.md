@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://wallet.adonis.network/">Production</a> (Stable) 
+  <a href="https://wallet.adonis.exchange/">Production</a> (Stable) 
 </p>
 
 ---
@@ -51,7 +51,7 @@ Alongside total codebase availability, AWW allows you to totally bunker-down, wi
 
 ## By the Community, for the Community
 
-AWW is built with love by [Adonis Network](https://github.com/AdonisNetwork), a micro-DAO of [awesome people](https://github.com/AdonisNetwork/Adon-Web-Wallet/graphs/contributors) that build both FOSS and Proprietary software for the ADONIS community to enjoy.
+AWW is built with love by [Adonis Network](https://github.com/adonisexchange), a micro-DAO of [awesome people](https://github.com/adonisexchange/Adon-Web-Wallet/graphs/contributors) that build both FOSS and Proprietary software for the ADONIS community to enjoy.
 
 The mission of Adonis Network is to accelerate the adoption & growth of ADONIS as a currency, using awesomeness. Join the [Adonis Network Discord](https://discord.adonis.network) to meet us!
 
