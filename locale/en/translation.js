@@ -52,6 +52,15 @@ var en_translation = {
     cardFourDesc: "AWW is built with love without any fees, privacy intrusions or advertising. ",               //
     cardFourLink: "Know more",               //
 
+    cardFiveTitle: "Download Windows Core Wallet",              //
+    cardFiveDesc: "Dowload Latest stable release Windows Wallet.",               //
+    cardFiveLink: "Download",               //
+
+    cardSixTitle: "Download MacOS Core Wallet",              //
+    cardSixDesc: "Download the Latest stable release MacOS Wallet. ",               //
+    cardSixLink: "Download",               //
+
+
     buttonDonate: "Donate - Pay with Adonis Web Wallet",               //
 
     // Dashboard
